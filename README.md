@@ -13,4 +13,6 @@ In a UFO-like format, it had colored buttons that emitted harmonic sounds and li
 
 It is up to players to repeat the process without making a mistake.
 
-### Play: 
+![alt text](/image/genius.png)
+
+### Play: (https://github.com/Elaine-Henrique/IronGenius/index.html)
