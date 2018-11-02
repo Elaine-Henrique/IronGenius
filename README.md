@@ -15,4 +15,4 @@ It is up to players to repeat the process without making a mistake.
 
 ![alt text](/image/genius.png)
 
-### Play: (https://github.com/Elaine-Henrique/IronGenius/index.html)
+### [Play here!](https://elaine-henrique.github.io/IronGenius/)
