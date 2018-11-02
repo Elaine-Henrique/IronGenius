@@ -1,0 +1,214 @@
+body {
+  background-color: #342626;
+  font-family: 'Arial';
+  color: black;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+.geniusBoard {
+  margin: 0 auto;
+  margin-top: 50px;
+  border: solid 10px black;
+  width: 600px;
+  height: 600px;
+  border-radius: 600px;
+  box-shadow: -10px 10px 7px 0px rgba(50, 50, 50, 0.75);
+}
+
+.pad {
+  margin: 0;
+  float: left;
+  position: relative;
+  width: 290px;
+  height: 290px;
+  z-index: 8;
+  border: 5px solid black;
+}
+
+.green {
+  background-color:#0a0;
+  border-radius: 300px 0 0 0;    
+}
+
+.green-active {
+  background-color: darkgreen;
+}
+
+.red {
+  background-color: red;
+  border-radius: 0 300px 0 0;
+}
+
+.red-active {
+  background-color: darkred;
+}
+
+.yellow {
+  background-color: yellow;
+  border-radius: 0 0 0 300px;
+}
+
+.yellow-active {
+  background-color: #e6d47e;
+}
+
+.blue {
+  background-color: blue;
+  border-radius: 0 0 300px 0;
+}
+
+.blue-active {
+  background-color: darkblue;
+}
+
+.board-controls {
+  border: 15px solid black;
+  height: 245px;
+  width: 245px;
+  border-radius: 150px;
+  background-color: white;
+  clear: both;
+  position: absolute;
+  z-index: 10;
+  margin-top: 160px;
+  margin-left: 160px;
+  box-shadow: -6px 8px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.title {
+  font-size: 45px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.inline {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.display {  
+  border: solid 2px black;
+  border-radius: 10px;
+  color: white;
+  width: 60px;
+  height: 45px;
+  font-size: 40px;
+  background-color: #342626;
+}
+
+.start, .strict {
+  text-align: center;
+  margin: 0px;
+  margin-left: 20px;
+  border: solid 3px black;
+  width: 55px;
+  height: 55px;
+  border-radius: 30px;
+  color: black;
+  line-height: 55px;
+}
+
+.start {  
+  background-color: darkred;
+}
+
+.strict {
+  background-color: yellow;
+}
+
+.switch-container {
+  margin-top: 10px;
+}
+
+.outter-switch {
+  border: solid 2px black;
+  width: 60px;
+  height: 25px;
+  background-color: black;  
+}
+
+.outter-active {
+  background-color: gray;
+}
+
+.inner-switch {
+  background-color: gray;
+  width: 30px;
+  height: 25px;
+  position: relative;
+}
+
+.inner-inactive {
+  background-color: black;
+}
+
+.seqScore {
+  float: left;
+  width: 20%;
+  margin-left: 150px;
+  text-align: center;
+}
+
+.gameScore {
+  border-radius: 5px;
+  color: rgb(160, 121, 121);
+  width: 100px;
+  font-size: 2em; 
+  margin: 0 auto;
+}
+
+.textScore {
+  font-size: 2em; 
+}
+  
+.seqScore2 {
+  float: right;
+  width: 20%;
+  margin-right: 150px;
+  text-align: center;
+}
+
+.gameScore2 {
+  border-radius: 5px;
+  color: rgb(160, 121, 121);
+  width: 100px;
+  font-size: 2em; 
+  margin: 0 auto;
+}
+
+.textScore2 {
+  font-size: 2em; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
